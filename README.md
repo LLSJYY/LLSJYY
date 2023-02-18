@@ -7,7 +7,7 @@
 JavaScript, TypeScript 를 이용하여 개발중입니다.
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=LLSJYY&theme=vue&show_icons=true"/></a>
 </p>
 
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
@@ -20,4 +20,7 @@ JavaScript, TypeScript 를 이용하여 개발중입니다.
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/LLSJYY?theme=dark&font=Noto%20Sans%20Tifinagh)
+
 </div>
